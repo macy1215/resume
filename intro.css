@@ -39,11 +39,12 @@
         */
       }
       .footer{
-            background-color:#252627;
-            opacity:0.5;
-            color:#ffff;
-            font-size:12px;
-            text-align:center;
+            background-color: #470063;
+            opacity: .5;
+            color: #ffff;
+            font-size: 12px;
+            text-align: center;
+            padding: 10px 0px;
       }
       
       @media (max-width:1250px) {
