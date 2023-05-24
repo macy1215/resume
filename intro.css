@@ -32,11 +32,15 @@
         /*
         background-repeat: no-repeat;
         background-attachment: scroll;
-        background-size: 100% 18px;
+        background-size: cover;
         background-position: top center;
         background: linear-gradient(white 30%, rgba(black,0)), linear-gradient(rgba(white,0), white 70%) bottom;
         background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg');
         */
+      }
+      .footer{
+            display:block;
+            background-color:color:#470063;
       }
       
       @media (max-width:1250px) {
