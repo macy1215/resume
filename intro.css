@@ -42,6 +42,7 @@
             display:block;
             background-color:color:#470063;
             text-color:#47006350;
+            font-size:12px;
       }
       
       @media (max-width:1250px) {
