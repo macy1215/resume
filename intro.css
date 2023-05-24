@@ -41,6 +41,7 @@
       .footer{
             display:block;
             background-color:color:#470063;
+            text-color:#47006350;
       }
       
       @media (max-width:1250px) {
