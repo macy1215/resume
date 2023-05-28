@@ -65,7 +65,7 @@
            background-size: cover;
            background-attachment: fixed;
       }
-      */
+      
       .bg-coffee{
            position:absolute;
            background-size: cover;
@@ -77,7 +77,8 @@
            min-height: 100%;
            width: 100%;
       }
-      
+      */      
+
       .footer{
             background-color: #462255;
             opacity: .5;
