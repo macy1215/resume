@@ -42,7 +42,7 @@
         background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg');
         */
       }
-      .img_bd{
+      .img_bg{
            background-color:rgba(210,210,210,.7);
            backgroung-blend-mode:multipy;
            background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg');
@@ -50,6 +50,7 @@
            background-repeat: no-repeat;
            background-attachment: fixed;
       }
+      .img_bg
       .footer{
             background-color: #462255;
             opacity: .5;
