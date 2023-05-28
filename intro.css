@@ -47,6 +47,7 @@
            background-size: cover;
            background-attachment: fixed;
            background-image:cross-fade (url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg'),30%) ;
+           background:linear-gradient(white 30%,rgba(255 193 199,.3))
       }
       
       /*
