@@ -48,11 +48,12 @@
             margin-top:100px;
       }
       
-      @media (max-width:1250px) {
+      @media (max-width:1250px;) {
      
       } 
       
-      @media (max-width:500px){
+      @media (max-width:500px;){
       .content-box{  
-        width:90%;}
+        width:90%;
+            }
       }
