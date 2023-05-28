@@ -51,13 +51,22 @@
            background:linear-gradient(white 30%,rgba(255 193 199,.3)),linear-gradient(rgba(255 193 199,.3),black 30%,)bottom;
       }
            */
-      
+      /*
       .bg-coffee{
             position:relation;
             z-index:0;
       }
       .bg-coffee::before{
            content:'';
+           position:absolute;
+           z-index:-1;
+           opacity:.3;
+           background-repeat: no-repeat;
+           background-size: cover;
+           background-attachment: fixed;
+      }
+      */
+      .bg-coffee{
            position:absolute;
            z-index:-1;
            opacity:.3;
