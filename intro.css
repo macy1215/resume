@@ -52,11 +52,11 @@
       }
            */
       
-      .img_bg{
+      .img-bg{
             position:relation;
             z-index:0;
       }
-      .img_bg::before{
+      .img-bg::before{
            content:'';
            position:absolute;
            z-index:-1;
