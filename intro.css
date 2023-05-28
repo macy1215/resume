@@ -30,12 +30,6 @@
       }
       body{
            margin:0px;
-           background-color:rgba(210,210,210,.7);
-           backgroung-blend-mode:multipy;
-           background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg');
-           background-size: cover;
-           background-repeat: no-repeat;
-           background-attachment: fixed;
            
            /*
           opacity:0.5;
@@ -47,6 +41,14 @@
         background: linear-gradient(white 30%, rgba(black,0)), linear-gradient(rgba(white,0), white 70%) bottom;
         background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg');
         */
+      }
+      .img_bd{
+           background-color:rgba(210,210,210,.7);
+           backgroung-blend-mode:multipy;
+           background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg');
+           background-size: cover;
+           background-repeat: no-repeat;
+           background-attachment: fixed;
       }
       .footer{
             background-color: #462255;
