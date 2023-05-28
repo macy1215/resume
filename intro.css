@@ -43,14 +43,17 @@
         */
       }
       .img_bg{
-           background-color:rgba(210,210,210,.7);
-           backgroung-blend-mode:multipy;
-           background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg');
-           background-size: cover;
-           background-repeat: no-repeat;
+           position:relative;
+           z-index:0;
+      }
+      .img_bg::before{
+           content:'';
+           position:absolute;
+           background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg') no-repeat / cover;
+           z-index:-1;
+           opacity:.3;
            background-attachment: fixed;
       }
-      .img_bg
       .footer{
             background-color: #462255;
             opacity: .5;
