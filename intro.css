@@ -49,9 +49,11 @@
       .img_bg::before{
            content:'';
            position:absolute;
-           background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg') no-repeat / cover;
+           background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg');
            z-index:-1;
            opacity:.3;
+           background-repeat: no-repeat;
+           background-size: cover;
            background-attachment: fixed;
       }
       .footer{
