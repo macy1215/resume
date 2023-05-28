@@ -52,11 +52,11 @@
       }
            */
       
-      .img-bg{
+      .bg-coffee{
             position:relation;
             z-index:0;
       }
-      .img-bg::before{
+      .bg-coffee::before{
            content:'';
            position:absolute;
            z-index:-1;
