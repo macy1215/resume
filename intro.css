@@ -30,6 +30,7 @@
       }
       body{
            margin:0px;
+            }
            
            /*
           opacity:0.5;
@@ -51,19 +52,20 @@
       }
            */
       
-      /*
+      .img_bg{
+            position:relation;
+            z-index:0;
+      }
       .img_bg::before{
            content:'';
            position:absolute;
-           background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg');
            z-index:-1;
            opacity:.3;
-           left: 0; right: 0; top: 0; bottom: 0;
            background-repeat: no-repeat;
            background-size: cover;
            background-attachment: fixed;
       }
-      */
+      
       .footer{
             background-color: #462255;
             opacity: .5;
