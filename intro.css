@@ -53,7 +53,8 @@
       } 
       
       @media (max-width:500px;){
-      .content-box{  
+      .content-box{
+        flex:none;  
         width:90%;
-            }
+      }
       }
