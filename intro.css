@@ -40,7 +40,7 @@
         background-position: top center;
         background: linear-gradient(white 30%, rgba(black,0)), linear-gradient(rgba(white,0), white 70%) bottom;
         background-image:url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg');
-        */
+        
       }
       .cross-fade-image{
            background-repeat: no-repeat;
@@ -49,6 +49,7 @@
            background-image:cross-fade (url('CD57693E-8811-4B98-B182-942CB1FC3975_1_105_c.jpeg'),30%) ;
            background:linear-gradient(white 30%,rgba(255 193 199,.3)),linear-gradient(rgba(255 193 199,.3),black 30%,)bottom;
       }
+           */
       
       /*
       .img_bg::before{
