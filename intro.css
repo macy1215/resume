@@ -8,6 +8,7 @@
       .content-box{
         flex:none;  
         width:70%;
+        padding: 50px 50px 0px 50px;
         background-color:rgba(255,255,255, 0.5);)
       }
       h3{
