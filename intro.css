@@ -41,6 +41,9 @@
       .tag{
             margin-right:12px;
             }
+      .text{
+       text-decoration: underline; font-weight: bold;
+      }
            
            /*
           opacity:0.5;
