@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <meta charset="utf-8"/>
+        <title>Resume | Macy H.</title>
+        <link rel="stylesheet" type="text/css" href="resume-app.css">
+    </head>
+    
+    <body>
+        <div class="content-box">
+            <img class="avatar-set" class="center-item" src="Avatar.png" >
+            <div class="detail">
+                <span class="name">黃祈禎</span><span class="name">Chi-Chen Huang</span>
+            </div>
+            <div class="detail">
+                行動是知識特有的果實，想品嚐先捲起袖子
+            </div>
+            <div class="detail">
+                <span>1992.12.15  |</span>
+                <span>mjmj3794@gmail.com  |</span>  
+                <span><a href="https://www.facebook.com/profile.php?id=100006430924865&mibextid=LQQJ4d">FB</a></span>
+            </div>
+        </div>
+
+        <div class="content-box">
+            <h4 class="center-item">—— 自我介紹 ——</h4>
+            <p>
+                我是一位設計師，從事設計相關工作經驗7年。公司在2019年時因想加強網路上的推廣，因而有機會學習套版網站的網頁設計。學習過程中發現網頁套版樣式與實際在設計時想呈現的畫面截然不同，為了符合版型只能修改設，因為技術的資訊缺乏在學習中透過網路資源認識前端工程師的職業與職務內容，在30歲時決定在2023年開始我的轉職規劃。規劃七月初將全心投入前端工程師的學習。
+            </p>
+        </div>
+
+        <div class="content-box">
+            <h4 class="center-item">—— 關於我 ——</h4>
+            <div class="first-h6">有效溝通解決問題</div>
+            <p>
+                任職網頁設計師及SA(系統分析師)在專案討論中，團隊中由不同專職的同事在互相溝通過程中能夠發現、整合問題。從每一次的討論都可以發現新的問題，在正式開發前可以將專案準備得更加完善。
+            </p>
+            <h6>團隊合作相互學習</h6>
+            <p>
+                團隊討論過程中不論是用圖像、文字進行溝通，彼此使用各自的方式透過互相討論互相理解，提供彼此專業。進而在專案中達成團隊共識並朝向共同的目標前進。
+            </p>
+            <h6>不停吸收創造自身價值</h6>
+            <p>
+                每次接收到不同的任務，每一次都是新的挑戰。科技、技術不斷進步的時期，讓自身保持自主學習讓自己可以持續吸收新事物。並且分享他人讓團隊整體的價值提升，並從中互相學習。
+            </p>
+        </div>
+
+        <div class="content-box">
+            <h4 class="center-item">—— 自我學習中 ——</h4>
+            <h6>學習中</h6>
+            <p>
+                <ul>
+                    <li>基礎  HTML 與 css </li>
+                    <li>基礎 JavaScript (ES6+</li>
+                    <li>saas</li>    
+                </ul>
+            </p>
+        </div>
+
+        <div class="cntent-box">
+            <h4 class="center-item">—— 學經歷 ——</h4>
+            
+            <h6>台灣知識庫有限股份公司｜ 2022年10月-2023年3月<br/>任職SA(系統分析師)</h6>
+            <p>在專案中接收User訊息，整理User需求，提報給開發團隊。藉由與各樣專職的同事透過溝通來確認功能開發程度與預計開發時程。撰寫系統規格書或需求建議書，專案進度維持、橫向內部溝通（User與開發團隊之間）開發後的產品測試並確認產品成功上線。</p>
+            
+            
+            <h6>凱斯教育機構｜ 2017年4月-2022年8月<br/>UI&UX 設計師-2020年5月至2022年8月</h6>
+            <p>線上凱斯報網站開發負責設計師，執行市場調查並了解相關教育產業網站樣式。自學網站架設後臺功能（Joomla）規劃網站畫面，推出月報網頁執行資料搜集與Wireframe & Mock up。使用基礎 HTML / CSS 架設響應式網頁並執行上架。
+                也負責活動網頁架設與公司額外需求網站。</p>
+
+            <h6>視覺設計師-2017年4月至2020年4月</h6>
+            <p>時任教學研發部門內視覺設計師一職，簿本編輯、海報平面設計、活動用視覺辨識物品（宣傳物）。公司重點刊物專案設計師（凱斯報）原為一年兩刊的紙本刊物逐漸演變為線上手翻書在2020年決定轉換為網頁推廣。</p>
+
+        </div>
+
+        <div class="content-box">
+            <h4 class="center-item">學歷/科系</h4>
+            <h6>龍華科技大學｜ 2011年9月-2015年6月 <br/> 多媒體與遊戲發展科學系</h6>
+            <p>
+            3D遊戲學習，動畫繪製、場景分析與遊戲配樂相關知識。
+            </p>
+        </div>
+
+
+    </body>
+</html>
