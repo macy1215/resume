@@ -1,0 +1,61 @@
+body{
+    padding: 20px 10%;
+}
+.content-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.avatar-set{
+    width: 300px;
+    text-align: center;
+    margin-bottom: 24px;
+    border-radius:50%;
+}
+.center-item{
+    width: 100%;
+    text-align: center;
+    margin: 60px 0px 8px 0px;
+}
+.name{
+    font-size: 32px;
+    font-weight: 600;
+    padding: 12px;
+}
+.detail{
+    width: 100%;
+    text-align: center;
+    margin: 4px auto;
+}
+h4{
+    font-size: 28px;
+    line-height: 140%;
+    margin-top:36px ;
+    width: 100%;
+}
+h6{
+    font-size: 20px;
+    line-height: 140%;
+    margin:4px auto ;
+    margin-top: 24px;
+    width: 100%;
+}
+.first-h6{
+    
+        font-size: 20px;
+        line-height: 140%;
+        margin:4px auto ;
+        font-weight: 500;
+        width: 100%;
+    
+}
+p{
+    font-size: 16px;
+    line-height: 160%;
+    margin:0px ;
+    width: 100%;
+}
+ul{
+    width:100%;
+}
